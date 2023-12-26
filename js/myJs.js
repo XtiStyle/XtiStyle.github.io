@@ -123,8 +123,8 @@ $(document).ready(function () {
                     no-repeat
                   `,
       showCancelButton: false,
-      confirmButtonColor: "#3085d6",
-      cancelButtonColor: "#d33",
+      confirmButtonColor: "#d33",
+      cancelButtonColor: "#3085d6",
       confirmButtonColor: "#fe8a71",
       cancelButtonColor: "#f6cd61",
       confirmButtonText: textConfig.text8,
