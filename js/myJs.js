@@ -6,9 +6,9 @@ const textConfig = {
   text5: "Không hài lòng",
   text6: "Cực kì hài lòng ",
   text7: "Lý do gì khiến bạn hài lòng như vậy",
-  text8: "Hãy gửi ý kiến cho mình nha",
-  text9: "Vì có bạn Trường tôi yêu quý ở đó =))",
-  text10: "Bạn đáng yêu quá dzị ^^ iU iU ^^",
+  text8: "Gửi ý kiến",
+  text9: "Vì có bạn Trường tôi yêu quý ở đó =))                                                                                                            ",
+  text10: "Ý kiến đã được tiếp thu ^^ iU iU ^^",
   text11:
     "Em Trường vẫn chưa có người iu, Anh/Chị/Em nhớ giới thiệu cho em Trường nhaaaaaa ",
   text12: "Okii lunn <3",
