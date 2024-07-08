@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "Xin chào bạn!",
   text2: "Đây là câu hỏi khảo sát về quỹ Công Đoàn Golden Phoenix Media",
-  text3: "Theo bạn, quỹ Công Đoàn năm vừa qua đã làm tốt nhiệm vụ chưa ._.",
-  text4: "Nếu bạn không trả lời mà thoát thì quỹ thu lên 500k :v",
+  text3: "Theo bạn, quỹ Công Đoàn thời gian qua đã làm tốt nhiệm vụ chưa ._.",
+  text4: "Hãy trả lời thật lòng nhoa >.<",
   text5: "Chưa tốt, cần cải thiện",
   text6: "Cực kì hài lòng ",
   text7: "Lý do gì khiến bạn hài lòng như vậy",
   text8: "Gửi ý kiến",
-  text9: "Vì có bạn Trường tôi yêu quý ở đó =))                                                                                                            ",
+  text9: "Vì có Trường, người tôi yêu quý ở đó =))                                                                                                            ",
   text10: "Ý kiến đã được tiếp thu ^^ ",
   text11:
-    "Em Trường vẫn chưa có người iu, Anh/Chị/Em nhớ giới thiệu cho em Trường nhaaaaaa ",
+    "Trường vẫn chưa có người iu, Anh/Chị/Bạn/Em nhớ giới thiệu cho Trường nhaaaaaa ",
   text12: "Okii lunn <3",
 };
 
